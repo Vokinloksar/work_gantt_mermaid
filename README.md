@@ -2,6 +2,9 @@
 
 This is a inspired project after I know mermaid-js. Used to keep a personal log of the time consumed on company projects
 
+## idea
+
+just following the [official way](http://mermaid-js.github.io/mermaid/#/usage) of creating a static html page for render
 
 ##  dev
 
