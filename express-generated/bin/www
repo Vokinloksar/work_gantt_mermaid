@@ -86,6 +86,6 @@ function onListening() {
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
     : 'port ' + addr.port;
-    open('http://localhost:3000/views/gantt.html');
+    open(`http://localhost:${port}/views/gantt.html`);
   debug('Listening on ' + bind);
 }
